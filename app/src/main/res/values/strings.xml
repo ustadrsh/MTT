@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MTT</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="location">Location</string>
+    <string name="hint">hint</string>
+</resources>
